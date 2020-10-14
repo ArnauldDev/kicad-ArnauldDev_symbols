@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRF1407PBF
+D 75V Single N-Channel HEXFET Power MOSFET in a TO-220AB package
+K N-Channel Power MOSFET
+F https://www.infineon.com/dgdl/irf1407pbf.pdf?fileId=5546d462533600a4015355db28c218c8
+$ENDCMP
+#
+#End Doc Library
